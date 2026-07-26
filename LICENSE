@@ -1,0 +1,22 @@
+AAT-TECH LTD PROPRIETARY SOFTWARE LICENCE
+
+Excel Compare Professional
+Copyright (C) 2026 AAT-Tech Ltd. All Rights Reserved.
+
+The source code, documentation, branding, artwork, and related materials in this repository are proprietary to AAT-Tech Ltd unless a file or third-party notice states otherwise.
+
+Permission is granted to view this repository for evaluation, portfolio review, security review, and authorised collaboration only.
+
+Without prior written permission from AAT-Tech Ltd, you may not:
+
+1. copy, publish, sell, sublicense, redistribute, or commercially exploit this software;
+2. create or distribute derivative products based on this software;
+3. remove copyright, ownership, licence, or branding notices;
+4. use the software or source code to provide an unauthorised hosted or managed service; or
+5. represent the software as your own work.
+
+Third-party components, including Qt, QXlsx, and libxls, remain governed by their own licence terms. See docs/THIRD_PARTY_NOTICES.md.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, TO THE MAXIMUM EXTENT PERMITTED BY LAW.
+
+For licensing enquiries, contact AAT-Tech Ltd.

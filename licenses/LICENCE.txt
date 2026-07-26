@@ -1,0 +1,31 @@
+AAT-TECH LTD SOFTWARE LICENCE AGREEMENT
+
+Excel Compare Professional - Version 2.0.4
+
+Copyright (C) 2026 AAT-Tech Ltd. All Rights Reserved.
+
+1. LICENCE GRANT
+AAT-Tech Ltd grants the licensed user a non-exclusive, non-transferable right to install and use Excel Compare Professional for internal business or personal purposes, subject to the terms of this agreement.
+
+2. RESTRICTIONS
+The user may not resell, sublicense, redistribute, reverse engineer, decompile, remove branding or copyright notices, or use the software to provide an unauthorised hosted service.
+
+3. DATA RESPONSIBILITY
+The user remains responsible for backups, access controls, lawful processing of personal data, and verification of comparison results before relying on them for financial, legal, employment, educational or audit decisions.
+
+4. WARRANTY DISCLAIMER
+The software is provided as is to the maximum extent permitted by law. AAT-Tech Ltd does not guarantee uninterrupted operation or that every workbook structure will be supported.
+
+5. LIMITATION OF LIABILITY
+To the maximum extent permitted by law, AAT-Tech Ltd is not liable for indirect, incidental, special or consequential loss, loss of profits, loss of data or business interruption arising from use of the software.
+
+6. TERMINATION
+This licence terminates automatically if the user materially breaches these terms. On termination, the user must stop using and remove the software.
+
+7. GOVERNING LAW
+This agreement is governed by the laws of England and Wales, subject to any mandatory consumer rights that apply.
+
+8. CONTACT
+AAT-Tech Ltd.
+
+This template should be reviewed by a qualified solicitor before commercial distribution.

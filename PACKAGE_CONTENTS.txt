@@ -1,0 +1,55 @@
+Excel Compare Professional 1.1 - AAT-Tech Ltd
+
+Core project
+- CMakeLists.txt
+- README.md
+- CHANGELOG.md
+- windows_version.rc
+- resources.qrc
+
+Source
+- src/main.cpp
+- src/MainWindow.h
+- src/MainWindow.cpp
+- src/ExcelEngine.h
+- src/ExcelEngine.cpp
+
+Supported inputs
+- Native: .xlsx, .csv, .tsv, .tab
+- LibreOffice conversion: .xls, .xlsb, .xlsm, .xlt, .xltx, .xltm, .ods, .fods
+
+Build and installer
+- scripts/build-cmake.bat
+- scripts/build-installer.bat
+- installer/ExcelCompareProfessional.iss
+- visual-studio/ExcelCompareProfessional.sln
+- visual-studio/ExcelCompareProfessional.vcxproj
+
+Legacy format support
+- tools/install-libreoffice.bat
+- docs/FORMAT_SUPPORT.md
+
+Documentation
+- docs/help.html
+- docs/Excel_Compare_Professional_User_Manual.pdf
+- licenses/LICENCE.txt
+
+Samples
+- Employee_Records_Old/New.xlsx
+- Employee_Records_Old/New.xls
+- Employee_Records_Old/New.ods
+- Employee_Records_Old/New.csv
+- Employee_Records_Old/New.tsv
+
+Branding and marketing assets are included under assets/ and marketing/.
+
+Version 1.2 additions:
+- Side-by-side workbook preview workspace
+- Visual column mapping table
+- Independent worksheet pairing
+- Mapped-column comparison
+- Multi-column keys
+- Full/left/inner merge modes
+- Merge conflict policies
+- Merged Excel export
+- docs/COMPARE_AND_MERGE.md

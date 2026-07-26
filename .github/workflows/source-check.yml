@@ -1,0 +1,27 @@
+name: Source Check
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  repository-check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Verify excluded build outputs are not committed
+        shell: bash
+        run: |
+          forbidden=$(find . -type f \( -name '*.exe' -o -name '*.dll' -o -name '*.pdb' -o -name '*.obj' \) -not -path './.git/*')
+          if [ -n "$forbidden" ]; then
+            echo "Generated binary files must not be committed:"
+            echo "$forbidden"
+            exit 1
+          fi
+      - name: Verify required project files
+        shell: bash
+        run: |
+          test -f CMakeLists.txt
+          test -f src/main.cpp
+          test -f src/MainWindow.cpp
+          test -f src/ExcelEngine.cpp
